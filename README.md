@@ -12,7 +12,7 @@ Better understanding of any significant health consequences linked to COVID-19 i
 
 The priorities/research questions stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [CCU029_01: Hospital admissions linked to SARS-CoV-2 infection in children: a cohort study of 3.2 million first ascertained infections in England](https://github.com/BHFDSC/CCU029_01)
+* [CCU029_01: Hospital admissions linked to SARS-CoV-2 infection in children and adolescents: cohort study of 3.2 million first ascertained infections in England](https://github.com/BHFDSC/CCU029_01)
 
 > Links to repositories for additional outputs will follow in due course.
 
